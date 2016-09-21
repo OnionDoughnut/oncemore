@@ -1,0 +1,12 @@
+角点特征（Haar特征）
+LDA（2D LDA）
+PCA（2D PCA）
+ICA
+FLD（Fisher线性判别）
+LBP
+小波变换（Gabor小波变换）
+傅里叶变换
+离散余弦变换（DCT）
+SVD
+贝叶斯
+
